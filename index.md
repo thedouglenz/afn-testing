@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to artfairnational.com
 
-You can use the [editor on GitHub](https://github.com/thedouglenz/afn-testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for testing artfairnational.com!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You’ve been invited to try an exciting new platform for bringing your original artwork to the market as part of a community of like-minded Artists. Before you begin, we’d like to present a few helpful insights.
 
-### Markdown
+## Promo codes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You will have been contacted by Mark Grosser, the founder of the company behind Artfairnational.com. To show you our appreciation for taking the time to test the website and give us feedback, he’ll be sharing a **PROMO CODE** to use with your subscription.
 
-```markdown
-Syntax highlighted code block
+To use the promo code:
 
-# Header 1
-## Header 2
-### Header 3
+![](https://imgur.com/ARl3isV)
 
-- Bulleted
-- List
+1. When you get to the subscription payment page, simply click “Add promotion code”.
+2. Type in the promo code Mark shared with you.
+3. Enter your credit card information and tap “Subscribe”.
 
-1. Numbered
-2. List
+## Submit your feedback
 
-**Bold** and _Italic_ and `Code` text
+As you begin building your portfolio, if you come across any difficulty, issues, or have any feedback at all, we want to hear it! Your input now will greatly help us improve the platform and make it a valuable place for yourself and many others.
 
-[Link](url) and ![Image](src)
-```
+Please use the link below to send us feedback. The form is meant to be used multiple times so please revisit the form for every issue you encounter or any feedback you have.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [Click here to visit the feedback form](https://forms.gle/PhF19TRMsKTzC7V68)
 
-### Jekyll Themes
+Again, thank you for testing this exciting new platform. You’ll find the link to Art Fair National below.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thedouglenz/afn-testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [artfairnational.com](https://artfairnational.com)

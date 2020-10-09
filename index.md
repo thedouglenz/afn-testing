@@ -26,4 +26,4 @@ Please use the link below to send us feedback. The form is meant to be used mult
 
 Again, thank you for testing this exciting new platform. You’ll find the link to Art Fair National below.
 
-# [artfairnational.com](https://artfairnational.com)
+<h1><a href="https://artfairnational.com" target="_blank">artfairnational.com</a></h1>

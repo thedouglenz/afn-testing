@@ -10,7 +10,7 @@ You will have been contacted by Mark Grosser, the founder of the company behind 
 
 To use the promo code:
 
-![screenshot](https://imgur.com/ARl3isV)
+![screenshot](https://i.imgur.com/ARl3isV.png)
 
 1. When you get to the subscription payment page, simply click “Add promotion code”.
 2. Type in the promo code Mark shared with you.

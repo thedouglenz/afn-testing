@@ -4,6 +4,16 @@ Thank you for testing artfairnational.com!
 
 You’ve been invited to try an exciting new platform for bringing your original artwork to the market as part of a community of like-minded Artists. Before you begin, we’d like to present a few helpful insights.
 
+## Password protected
+
+<img src="https://i.imgur.com/U4M5JLo.png" width=300>
+
+When you first reach the Art Fair National website, you'll notice it is temporarily password protected. Here is the username and password to enter:
+
+Username: artfairtester
+
+Password: islandviewguesthouse
+
 ## Promo codes
 
 You will have been contacted by Mark Grosser, the founder of the company behind Artfairnational.com. To show you our appreciation for taking the time to test the website and give us feedback, he’ll be sharing a **PROMO CODE** to use with your subscription.

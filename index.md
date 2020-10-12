@@ -23,7 +23,7 @@ To use the promo code:
 <img src="https://i.imgur.com/ARl3isV.png" width=300>
 
 1. When you get to the subscription payment page, simply click “Add promotion code”.
-2. Type in the promo code Mark shared with you.
+2. Type in the promo code Mark shared with you. (Be sure to press *Enter* to apply the code)
 3. Enter your credit card information and tap “Subscribe”.
 
 ## Submit your feedback
